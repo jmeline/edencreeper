@@ -6,6 +6,7 @@
 
 ## Contact Me!
 **Discord** : edencreeper#4306
+
 And nowhere else :v
 
 ## More about me
