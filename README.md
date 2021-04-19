@@ -1,6 +1,6 @@
 👋 Hi, I’m @edencreeper
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=edencreeper&show_icons=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=edencreeper&show_icons=true&theme=tokyonight">
 
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?bg_color=151515&layout=compact&username=edencreeper&hide_border=true&title_color=fff&text_color=9f9f9f)
 
