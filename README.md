@@ -5,8 +5,7 @@
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edencreeper&theme=tokyonight&hide_border=true)
 
 ## Contact Me!
-**Discord** : edencreeper#4306
-
+**Discord** : edencreeper#4306   
 And nowhere else :v
 
 ## More about me
